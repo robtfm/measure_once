@@ -1,6 +1,6 @@
-## Measure Once
-
 a game where you repair holes by cutting wood to the right shapes.
+
+![screenshot](screenshot.png)
 
 [download for win32](measure once win32.zip)
 

@@ -25,8 +25,8 @@ there are lots of things wrong with this code. it is not exemplary, it is more l
 
 it was mainly done because i got tired of not finishing anything, and to see how much effort it takes to get going with sfx, ui, inputs, deployment, etc.
 the whole thing was built in around 10 days, which splits up roughly as:
-- 20% actual gameplay code
-- 20% input management
-- 20% graphics/sfx
-- 20% ui
-- 20% deployment
+- 25% actual gameplay code
+- 25% graphics/sfx
+- 25% ui
+- 15% input management
+- 10% deployment

@@ -1,6 +1,6 @@
 # Measure Once
 
-a game where you repair holes by cutting wood to the right shapes.
+a game where you repair holes by cutting wood to the right shapes. works best with a gamepad, can be played on keyboard as well.
 
 ![screenshot](screenshot.png)
 

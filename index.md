@@ -9,3 +9,5 @@ a game where you repair holes by cutting wood to the right shapes.
 web version known issues:
 - west and north on gamepad seem to be switched. looks like a gilrs issue
 - audio causes slowdown on first use. looks like a kira issue
+
+[code](https://github.com/robtfm/bevy_carp)
